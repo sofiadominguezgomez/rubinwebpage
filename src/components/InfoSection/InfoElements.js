@@ -72,7 +72,7 @@ export const Heading = styled.div`
     color:  ${({lightText}) => (lightText ? '#f7f8fa' : '#010606')};
 
     @media screen and (max-width: 480px) {
-        font-size: 32px;
+        font-size: 28px;
     }
 `
 
@@ -112,6 +112,7 @@ export const Button = styled(LinkR)`
 `
 
 export const AnchorLink = styled.a`
+    width: 50%;
     border-radius: 50px;
     background: ${({primary}) => (primary ? "#001d4a" : "#27476e" )};
     white-space: nowrap;

@@ -4,7 +4,7 @@ export const homeObjTwo = {
     lightBg: true,
     lightText: false,
     topLine: 'Inscripción',
-    headline: 'Registrate para formar del evento',
+    headline: 'Registrate para formar parte del evento',
     description: "Rellena el siguiente formulario",
     buttonLabel: "Ir al formulario",
     imgStart: false,
