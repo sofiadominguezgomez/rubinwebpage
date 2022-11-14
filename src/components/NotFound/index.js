@@ -1,11 +1,13 @@
 import React from 'react'
 import Back from '../Back'
 import { NotFoundContainer, NotFoundTitle, NotFoundImg, ImgWrap } from './NotFoundElements'
-import Error from '../../media/404.png'
+import Error from '../../media/404.svg'
+import ScrollToTop from '../ScrollToTop'
 
 const NotFound = () => {
   return (
     <>
+      <ScrollToTop />
       <Back />
       <NotFoundContainer>
 

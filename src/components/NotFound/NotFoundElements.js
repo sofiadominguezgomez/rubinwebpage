@@ -10,6 +10,7 @@ export const NotFoundContainer = styled.div`
 `
 
 export const NotFoundTitle = styled.h1`
+    text-align: center;
     color: white;
 `
 

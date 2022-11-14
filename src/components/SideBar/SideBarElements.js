@@ -30,8 +30,10 @@ export const CloseIcon = styled(FaTimes)`
 `
 
 export const Icon = styled.div`
-    justify-self: end;
-    padding: 5vw;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 5px;
     background: transparent;
     font-size: 2rem;
     cursor: pointer;
