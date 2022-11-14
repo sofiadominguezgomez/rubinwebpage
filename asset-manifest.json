@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rubinwebpage/static/css/main.aa1e2082.css",
-    "main.js": "/rubinwebpage/static/js/main.4a4c301e.js",
+    "main.js": "/rubinwebpage/static/js/main.d8459b68.js",
     "static/media/solarSystem.mp4": "/rubinwebpage/static/media/solarSystem.83888f54d017ceb90a6a.mp4",
     "static/media/program.png": "/rubinwebpage/static/media/program.3051cc78f586fbd820f1.png",
     "static/media/404.png": "/rubinwebpage/static/media/404.d270b5cc84a12a57473d.png",
@@ -12,10 +12,10 @@
     "static/media/location.svg": "/rubinwebpage/static/media/location.58ea620406444d2da8e77d7090caf061.svg",
     "index.html": "/rubinwebpage/index.html",
     "main.aa1e2082.css.map": "/rubinwebpage/static/css/main.aa1e2082.css.map",
-    "main.4a4c301e.js.map": "/rubinwebpage/static/js/main.4a4c301e.js.map"
+    "main.d8459b68.js.map": "/rubinwebpage/static/js/main.d8459b68.js.map"
   },
   "entrypoints": [
     "static/css/main.aa1e2082.css",
-    "static/js/main.4a4c301e.js"
+    "static/js/main.d8459b68.js"
   ]
 }
