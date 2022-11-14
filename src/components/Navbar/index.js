@@ -29,7 +29,7 @@ const Navbar = ({ toggle }) => {
     <>
         <Nav scrollNav={scrollNav}>
             <NavbarContainer>
-                <NavLogo to="/" onClick={toggleHome}>IATE@LSST/Rubin</NavLogo>
+                <NavLogo to="/rubinwebpage/" onClick={toggleHome}>IATE@LSST/Rubin</NavLogo>
                 <MobileIcon onClick={toggle} >
                     <FaBars color='white' />
                 </MobileIcon>
