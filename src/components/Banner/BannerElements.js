@@ -7,7 +7,6 @@ export const BannerContainer = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0 30px;
     height: 1000px;
     position: relative;
     z-index: 1;
@@ -41,14 +40,14 @@ export const VideoBg = styled.video`
     height: 100%;
     -o-object-fit: cover;
     object-fit: cover;
-    background: green;
+    background: #0c0c0c;
 `
 
 export const BannerContent = styled.div`
     z-index: 3;
     max-width: 1200px;
     position: absolute;
-    padding: 8vh 24vh;
+    padding: 8px 24px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -67,7 +66,7 @@ export const BannerH1 = styled.h1`
 `
 
 export const HeroP = styled.p`
-    margin-top: 10vh;
+    margin-top: 10px;
     color: white;
     font-size: 24px;
     text-align: center;
@@ -82,7 +81,7 @@ export const HeroP = styled.p`
 `
 
 export const BannerBtnWrapper = styled.div`
-    margin-top: 10vh;
+    margin-top: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
