@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/rubinwebpage/static/css/main.5aca7c5e.css",
-    "main.js": "/rubinwebpage/static/js/main.8486f52f.js",
+    "main.css": "/rubinwebpage/static/css/main.2feac8af.css",
+    "main.js": "/rubinwebpage/static/js/main.a60a5fa4.js",
     "static/media/solarSystem.mp4": "/rubinwebpage/static/media/solarSystem.83888f54d017ceb90a6a.mp4",
     "static/media/program.png": "/rubinwebpage/static/media/program.3051cc78f586fbd820f1.png",
+    "static/media/stars.png": "/rubinwebpage/static/media/stars.90c266f7d69f1ffb6137.png",
+    "static/media/clouds.png": "/rubinwebpage/static/media/clouds.655c9c060e6309ec9edf.png",
     "static/media/team.svg": "/rubinwebpage/static/media/team.15ee250e8d4a79b7b3153823969bd790.svg",
     "static/media/modalidad.svg": "/rubinwebpage/static/media/modalidad.87f2c5d002329b43e674eeffbce89bd5.svg",
     "static/media/participants.svg": "/rubinwebpage/static/media/participants.4b4d374230b2e4358d30038b99a1fd6c.svg",
@@ -11,11 +13,11 @@
     "static/media/calendar.svg": "/rubinwebpage/static/media/calendar.9ff9186df98b843acaeecdacea29c396.svg",
     "static/media/location.svg": "/rubinwebpage/static/media/location.58ea620406444d2da8e77d7090caf061.svg",
     "index.html": "/rubinwebpage/index.html",
-    "main.5aca7c5e.css.map": "/rubinwebpage/static/css/main.5aca7c5e.css.map",
-    "main.8486f52f.js.map": "/rubinwebpage/static/js/main.8486f52f.js.map"
+    "main.2feac8af.css.map": "/rubinwebpage/static/css/main.2feac8af.css.map",
+    "main.a60a5fa4.js.map": "/rubinwebpage/static/js/main.a60a5fa4.js.map"
   },
   "entrypoints": [
-    "static/css/main.5aca7c5e.css",
-    "static/js/main.8486f52f.js"
+    "static/css/main.2feac8af.css",
+    "static/js/main.a60a5fa4.js"
   ]
 }
